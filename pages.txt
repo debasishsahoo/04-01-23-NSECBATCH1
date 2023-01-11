@@ -1,0 +1,9 @@
+LOGIN PAGE => email ,password
+
+REGISTRATION PAGE => name,email,password,cpasword
+
+USER ENTERY PAGE =>name,email,DOB,Dept,salary,phone
+ALL USER VIEW PAGE
+USER UPDATE PAGE
+USER DELETE PAGE
+
