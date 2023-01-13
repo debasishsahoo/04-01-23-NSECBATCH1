@@ -1,20 +1,12 @@
-import Header from './Components/Header'
-import Body from './Components/Body'
-import Footer from './Components/Footer'
-import Login from './Components/Login';
+import React from 'react';
+import Tweet from './Components/Tweet';
+import './App.css'
 
-function App() {
+
+const App = () => {
   return (
-    <>
-      <Header />
-      <Body />
+    <Tweet />
+  )
 
-      <Login email='Debasish' />
-      <Footer />
-
-    </>
-
-  );
 }
-
 export default App;
